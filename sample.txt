@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 My name is Madhu babu Vemula.
 I am working in paltech.
 I am currently in the development branch.
+=======
+My name is Madhu babu vemula 
+I am working in paltech
+>>>>>>> f809097d6e9c9d56e94a6360d3dcf800b97237dc
