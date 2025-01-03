@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 I am in new branch 2 
 this line added by the git
-=======
-I am in new branch 2
 This line added by githubcom
->>>>>>> 9e8a6df29dd76e88d0f7327a04989a66021bfc2e
+
